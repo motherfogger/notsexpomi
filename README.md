@@ -2,8 +2,7 @@
 server stack using:  NodeJS + TypeScript + ExpressJS + PostgreSQL + MikroORM 
 
 
-codes-initially-setup with: [express-generator-typescript](https://github.com/seanpmaxwell/express-generator-typescript)
-
+codes-initially-setup with: [typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter)
 
 ## Installation
 
@@ -35,4 +34,4 @@ codes-initially-setup with: [express-generator-typescript](https://github.com/se
 
 ## Contributing
 
-- please contribute directly to: [express-generator-typescript](https://github.com/seanpmaxwell/express-generator-typescript)
+- please contribute directly to: [typescript-express-starter](https://github.com/ljlm0402/typescript-express-starter)
